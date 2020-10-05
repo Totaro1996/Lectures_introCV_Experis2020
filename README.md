@@ -4,7 +4,8 @@ Lectures 2020 for Experis Academy : Introduction to computer vision &amp; machin
 -----------------------------------------
 ### How is structured the Repo
 
-- ``` slides ``` : available at : 
+- ``` slides ```   : DL4CV.pdf
+- ``` slides ```   : papers
 - ``` material ``` : divided in several notebook! DL4CV - *#number*
 
 -----------------------------------------
